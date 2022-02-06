@@ -1,0 +1,17 @@
+{
+  "name": "mnemonic-to-key",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-mnemonic": "^8.25.25",
+    "elliptic": "^6.5.4",
+    "ethereumjs-util": "^7.1.4"
+  }
+}
